@@ -2,7 +2,8 @@
 <img width="709" height="321" alt="image" src="https://github.com/user-attachments/assets/52172d57-0175-426c-801f-d9d3085fa850" />
 
 ## 기술
-- **반복문을 행렬 연산으로 벡터화** 
+- **반복문을 행렬 연산으로 벡터화**
+- 같은 피벗에 대한 **나눗셈 1회**만 수행, 나머지는 곱셈으로 대체
 
 ## 의의(What I learned)
 - **반복문이 시간을 이렇게 많이 잡아먹는지 몰랐다**
